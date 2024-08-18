@@ -1,1 +1,1 @@
-Project from One Project!
+Project from Odin Project!
