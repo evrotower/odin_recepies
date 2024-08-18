@@ -1,1 +1,1 @@
-Well, in short, something in the first made, without using CSS, pure html, well, here are my skills now at about this level
+Project from One Project!
