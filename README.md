@@ -1,1 +1,1 @@
-Project from Odin Project!
+Project for the Odin Project)
